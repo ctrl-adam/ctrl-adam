@@ -18,4 +18,3 @@ I'm a 17-year-old cybersecurity enthusiast building my skills through hands-on p
   <b>Security Tools:</b> Metasploit • Wireshark • Burp Suite • Nmap • Kali Linux
 </div>
 
----
