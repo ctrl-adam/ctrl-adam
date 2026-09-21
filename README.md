@@ -1,4 +1,4 @@
-# 🛡️ Adam - Cybersecurity Enthusiast
+# Adam - Cybersecurity Enthusiast
 
 **`Security Researcher & Developer in Training`**
 
